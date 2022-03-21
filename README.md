@@ -1,6 +1,8 @@
 ### TODO: use more github
 ## Hello there!
 - 🌱 I’m currently learning everything.
+- 🔭 I’m currently working on my final paper for university. (thesis or something)
+- ✨ One drop of coffe a day. Will it help grow a programmer?
 
 <!--
 **Moss4t/Moss4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
